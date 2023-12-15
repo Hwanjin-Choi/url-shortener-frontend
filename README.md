@@ -4,7 +4,10 @@
    - Navigate to the project directory: `cd url-shortener-frontend`.
 
 2. **Install required dependencies**
-Npm install
+     ```bash
+     npm start
+     ```
+
 
 3. **Start the React.js Application:**
    - Run the following command to start the React.js application:
